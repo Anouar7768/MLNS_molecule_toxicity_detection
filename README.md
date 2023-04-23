@@ -8,3 +8,7 @@ The Data folder contains the datasets used for training and testing along with t
 - molecule_TestFeatures.csv: unlabeled dataset of molecules, this dataset was not used since it is not labeled
 - graph2vec_embedding.csv and graph2vec_features.csv: features computed using the Graph2vec method
 - mol2vec_features.csv: features computed using the Mol2vec methods
+
+## Notebooks folder
+The Notebook folder contains jupyter notebooks used for all the steps in our project (data exploration, feature extraction, feature engineering and classification, deep learning approach).
+- 
